@@ -1,0 +1,56 @@
+body{
+    background-color: white;
+}
+.one{
+    background-color: rgb(8, 2, 2);
+    width: 320px;
+    height:380px;
+    border: 2px solid rgb(31, 28, 28);
+    border-radius: 50px;
+    margin-left: 35vw;
+    margin-top:5vw ;
+    margin-bottom:30px ;
+    
+}
+.honey{
+    background-color: brown;
+    color: white;
+    font-size: small;
+
+}
+input{
+margin-top: 4vw;
+margin-left:2vw ;
+height: 60px;
+width: 265px;
+border: 2px solid white;
+border-radius:40px ;
+margin-bottom: 1.5vw;
+text-align: right;
+font-size:50px ;
+color: grey;
+
+
+
+}
+table, tr{
+    
+    border-radius: 15px;
+    margin-left:2vw ;
+    margin-bottom: 100px;
+    border-spacing:10px ;
+    
+
+}
+td{
+    width: 50px;
+    height: 10px;
+    padding: 4px ;
+margin-bottom: 100px;
+    margin-left: 10px;
+    border-radius: 20px;
+  
+  
+   text-align: center;
+    
+}
